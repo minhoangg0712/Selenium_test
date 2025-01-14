@@ -113,3 +113,6 @@ Thông tin đăng nhập bị thiếu
 
 ### Hình ảnh kết quả
 ![Screenshot (177)](https://github.com/user-attachments/assets/056857ae-2cfe-4dc2-8486-983a6da17c8d)
+
+### Tham khảo
+https://chatgpt.com/c/67867c10-60e4-8000-95cb-5795106f7733
