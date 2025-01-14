@@ -80,10 +80,9 @@ Xem báo cáo:
     |-- src/
     |   |-- main/
     |   |   |-- java/
-    |   |       |-- com.example.tests
     |   |-- test/
     |       |-- java/
-    |           |-- com.example.tests
+    |           |-- OrangeLoginTest.java
     |-- pom.xml
     |-- README.md
 
